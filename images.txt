@@ -7,6 +7,7 @@ rustdesk/rustdesk-server:1.1.14
 bioinfochrustrasbourg/annovar:2018Apr16
 zhangrenl/genehapr:latest
 zhouwanding/transvar:latest
+us.gcr.io/broad-dsde-methods/haplochecker:haplochecker-0124
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
