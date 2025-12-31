@@ -1,4 +1,4 @@
-quay.io/biocontainers/homer
+quay.io/biocontainers/homer:5.1--pl5262h9948957_0
 # quay.io/biocontainers/bioconductor-diffbind:3.16.0--r44h77050f0_1
 # centos:7
 # gitea/gitea:1.23.1
